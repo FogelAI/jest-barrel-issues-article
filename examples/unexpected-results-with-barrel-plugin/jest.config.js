@@ -6,7 +6,7 @@ module.exports = {
   ],
   transform: {
     "^.+\\.(js|jsx|mjs|cjs|ts|tsx)$": require("path").resolve(
-      "./config/jest/regularTransform.js"
+      "./config/jest/babelTransform.js"
     ),
   },
   transformIgnorePatterns: [
