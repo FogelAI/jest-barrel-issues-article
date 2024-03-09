@@ -1,0 +1,5 @@
+
+# dependencies
+**/examples/**/node_modules
+
+**/examples/**/package-lock.json
